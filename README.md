@@ -46,3 +46,16 @@ CREATE TABLE nypd_vehicle_stop_reports (
     x_coordinate NUMERIC,
     y_coordinate NUMERIC
 );
+
+## Random Thoughts
+- Modeling done after multiple attempts, understanding that predictions are impossible in this situation, whether with only contextual info or results of the stop
+
+Emphasizes how important training officers are, as a stop, presumably similar to all situations, is a random event. An officers decisions in the moment are a 'black boix' of sorts, and they need to be capable to ensure its contents are proper. 
+
+Article guide
+
+Intro
+data visualizations
+interpretation
+models
+conclusion
